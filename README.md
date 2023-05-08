@@ -6,6 +6,11 @@
 
 __________________________
 
-## Oyundan Bir Görüntü(A photo from the game) 
+## Oyundan Bir Görüntü(A photo from the game while using Desktop) 
  
  ![Hill Climb Racing](https://i.hizliresim.com/6sxfk4u.png)
+ 
+ -----------
+## Mobil Platform Oyundan Bir Görüntü(A photo from the game while using mobile) 
+
+ ![Hill Climb Racing](https://i.hizliresim.com/ze3fx9r.jpg)
