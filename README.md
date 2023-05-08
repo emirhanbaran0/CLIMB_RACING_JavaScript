@@ -8,4 +8,4 @@ __________________________
 
 ## Oyundan Bir Görüntü(A photo from the game) 
  
- ![Hill Climb Racing][oyundanGoruntu.png]
+ ![Hill Climb Racing][https://i.hizliresim.com/6sxfk4u.png]
